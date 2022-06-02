@@ -15,7 +15,7 @@ Ponte en contacto con nosotros y agenda una visita, uno de nuestros socios se po
 
 ### Por que tu inversión nos importa.
 
-[Inicio](#)|[Proyectos](#)|[Contacto](#)
+#[Inicio](#)|[Proyectos](#)|[Contacto](#)
 
 <!--
 
