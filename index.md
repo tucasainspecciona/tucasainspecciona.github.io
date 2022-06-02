@@ -1,11 +1,13 @@
 
 
 ## Bienvenido
-[Inicio](#) [Proyectos](#)  [Contacto](#)
+[Inicio](#)   [Proyectos](#)    [Contacto](#)
+
 ---------------------
 
 ---------------------
-[Inicio](#) [Proyectos](#)  [Contacto](#)
+
+[Inicio](#)   [Proyectos](#)    [Contacto](#)
 
 <!--
 
