@@ -1,6 +1,6 @@
 <!--Agregar servicios-->
 
-[Inicio](#)|[Servicios](tucasainspecciona.github.io/servicios.md)|[Contacto](#)
+[Inicio](#)|[Servicios](tucasainspecciona.github.io/servicios.html)|[Contacto](#)
 
 ## Bienvenido
 
