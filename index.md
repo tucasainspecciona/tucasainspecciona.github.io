@@ -1,8 +1,10 @@
-[Inicio](#)|[Proyectos](#)|[Contacto](#)
+<!--Agregar servicios-->
+
+[Inicio](#)|[Servicios](#)|[Contacto](#)
 
 ## Bienvenido
 
-Tu casa inspecciona es una empresa dedicada a servicios de instalación y arreglos. Nuestros servicios incluyen:
+Tu casa inspecciona es una empresa dedicada a servicios de inspección, emitimos informe de fallas y/o mal funcionamiento de:
 
 ```
 Instalaciones Eléctricas
@@ -12,6 +14,10 @@ Terminaciones
 Pisos
 Y más...
 ```
+
+Brindamos diferentes categorías de servicios de acuerdo a tus requerimientos:
+
+<!--insertar categoría: Fabricación y reparación de portones electricos para estacionamientos ; Rejas de proteccion para puertas y ventanas ; Gafiteria y electricidad (consultar) -->
 
 Ponte en contacto con nosotros y agenda una visita, uno de nuestros socios se pondrá en contacto contigo a la brevedad.
 
