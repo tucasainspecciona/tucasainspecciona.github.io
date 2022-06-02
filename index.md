@@ -4,12 +4,16 @@
 
 Tu casa inspecciona es una empresa dedicada a servicios de instalación y arreglos. Nuestros servicios incluyen:
 
-- Gafitería
-- Gafitería
-- Gafitería
-- Gafitería
+- Instalaciones Eléctricas
+- Fugas de Gas
+- Terminaciones
+- Pisos
+- Presiones de Agua
+- Y más...
 
-### Footer
+Ponte en contacto con nosotros y agenda una visita, uno de nuestros socios se pondrá en contacto contigo a la brevedad.
+
+### Por que tu inversión nos importa.
 
 [Inicio](#)|[Proyectos](#)|[Contacto](#)
 
