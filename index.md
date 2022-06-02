@@ -1,6 +1,6 @@
 <!--Agregar servicios-->
 
-[Inicio](tucasainspecciona.github.io) [Servicios](tucasainspecciona.github.io/../nav/servicios.md) | [Contacto](tucasainspecciona.github.io/nav/contacto.html)
+[Inicio](tucasainspecciona.github.io)|[Servicios](tucasainspecciona.github.io/nav/servicios.md) | [Contacto](tucasainspecciona.github.io/nav/contacto.html)
 
 ## Bienvenido
 
@@ -15,9 +15,7 @@ Pisos
 Y más...
 ```
 
-Este es un boton de pruebas [boton](https://www.youtube.com/)
-
-Brindamos diferentes categorías de servicios de acuerdo a tus requerimientos [Servicios](#)
+Brindamos diferentes categorías de servicios de acuerdo a tus requerimientos [Servicios](#).
 
 <!--insertar categoría: Fabricación y reparación de portones electricos para estacionamientos ; Rejas de proteccion para puertas y ventanas ; Gafiteria y electricidad (consultar) -->
 
