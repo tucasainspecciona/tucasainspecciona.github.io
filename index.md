@@ -15,8 +15,6 @@ Ponte en contacto con nosotros y agenda una visita, uno de nuestros socios se po
 
 ### Por que tu inversión nos importa.
 
-#[Inicio](#)|[Proyectos](#)|[Contacto](#)
-
 <!--
 
 You can use the [editor on GitHub](https://github.com/tucasainspecciona/tucasainspecciona.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
