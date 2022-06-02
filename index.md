@@ -8,9 +8,9 @@ Tu casa inspecciona es una empresa dedicada a servicios de inspección, emitimos
 
 ```
 Instalaciones Eléctricas
-Fugas de Gas
 Presiones de Agua
 Terminaciones
+Fugas de Gas
 Pisos
 Y más...
 ```
