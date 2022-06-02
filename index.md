@@ -2,7 +2,6 @@
 
 ## Bienvenido
 
----------------------
 Tu casa inspecciona es una empresa dedicada a servicios de instalación y arreglos. Nuestros servicios incluyen:
 
 - Gafitería
@@ -11,8 +10,6 @@ Tu casa inspecciona es una empresa dedicada a servicios de instalación y arregl
 - Gafitería
 
 ### Footer
-
----------------------
 
 [Inicio](#)|[Proyectos](#)|[Contacto](#)
 
