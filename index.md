@@ -5,12 +5,12 @@
 Tu casa inspecciona es una empresa dedicada a servicios de instalación y arreglos. Nuestros servicios incluyen:
 
 ```
-* Instalaciones Eléctricas
-* Fugas de Gas
-* Terminaciones
-* Pisos
-* Presiones de Agua
-* Y más...
+Instalaciones Eléctricas
+Fugas de Gas
+Presiones de Agua
+Terminaciones
+Pisos
+Y más...
 ```
 
 Ponte en contacto con nosotros y agenda una visita, uno de nuestros socios se pondrá en contacto contigo a la brevedad.
