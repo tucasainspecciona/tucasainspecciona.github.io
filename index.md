@@ -1,4 +1,4 @@
-[Inicio](https://tucasainspecciona.github.io)|[Servicios](https://tucasainspecciona.github.io/nav/servicios.html)|[Contacto](https://tucasainspecciona.github.io/nav/contacto.html)|[Instagram](#)
+[Inicio](https://tucasainspecciona.github.io)|[Servicios](https://tucasainspecciona.github.io/nav/servicios.html)|[Contacto](https://tucasainspecciona.github.io/nav/contacto.html)|[Instagram](https://www.instagram.com/inspeccionachile/)
 
 ## Bienvenido
 
