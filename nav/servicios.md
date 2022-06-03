@@ -1,4 +1,4 @@
-[Inicio](https://tucasainspecciona.github.io)|[Servicios](#)|[Contacto](https://tucasainspecciona.github.io/nav/contacto.md)|[Instagram](#)
+[Inicio](https://tucasainspecciona.github.io)|[Servicios](#)|[Contacto](https://tucasainspecciona.github.io/nav/contacto.html)|[Instagram](https://www.instagram.com/inspeccionachile/)
 
 ## Servicios
 Contamos con distintos tipos de servicios, tu elijes el que más se acomode a tus necesidades:
