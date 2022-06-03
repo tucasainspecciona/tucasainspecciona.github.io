@@ -1,7 +1,7 @@
 title: Tu Casa Inspecciona
 logo: /img/logo.png
 description: Por que tu inversión nos importa, revisamos tu nuevo hogar para tu comodidad y tranquilidad.
-show_downloads: true
+#show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 instagram: thomy_emerson
