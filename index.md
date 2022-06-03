@@ -1,6 +1,6 @@
 <!--Agregar servicios-->
 
-[Inicio](https://tucasainspecciona.github.io)|[Servicios](https://tucasainspecciona.github.io/nav/servicios.md)|[Contacto](https://tucasainspecciona.github.io/nav/contacto.md)|[Instagram]
+[Inicio](https://tucasainspecciona.github.io)|[Servicios](https://tucasainspecciona.github.io/nav/servicios.md)|[Contacto](https://tucasainspecciona.github.io/nav/contacto.md)|[Instagram](#)
 
 ## Bienvenido
 
