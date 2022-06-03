@@ -1,13 +1,11 @@
-[Inicio](https://tucasainspecciona.github.io)|[Servicios](https://tucasainspecciona.github.io/nav/servicios.md)|[Contacto](#)
+[Inicio](https://tucasainspecciona.github.io)|[Servicios](https://tucasainspecciona.github.io/nav/servicios.html)|[Contacto](#)|[Instagram](#)
 
 ## Contacto
 
 Puedes contactarnos a través de las siguentes opciones:
 
-- Correo
-- Teléfono
-- Whatsapp
-- Instagram
+- Correo: tucasainspecciona@gmail.com
+- Teléfono & Whatsapp: 
 
 ### Nuestras Redes Sociales
 
