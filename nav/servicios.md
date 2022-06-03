@@ -3,7 +3,6 @@
 ## Servicios
 Contamos con distintos tipos de servicios, tu elijes el que más se acomode a tus necesidades:
 ![img](../img/tabla_servicios.jpg)
-[img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX6ZAQjmhrNHaralXHR3sPyFRmSxNzFGtk-w&usqp=CAU)
 
 ### Nuestras Redes Sociales
 
