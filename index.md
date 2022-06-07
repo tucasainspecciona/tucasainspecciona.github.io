@@ -21,9 +21,10 @@ Pisos
 Y más...
 ```
 
+![img](../img/collage.png)
+
 Brindamos diferentes categorías de servicios de acuerdo a tus requerimientos [Servicios](https://tucasainspecciona.github.io/nav/servicios.html).
 
-<!--insertar categoría: Fabricación y reparación de portones electricos para estacionamientos ; Rejas de proteccion para puertas y ventanas ; Gafiteria y electricidad (consultar) -->
 
 Ponte en contacto con nosotros y agenda una visita, uno de nuestros socios se pondrá en contacto contigo a la brevedad [Contacto](https://tucasainspecciona.github.io/nav/contacto.html).
 
