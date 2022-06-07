@@ -21,6 +21,8 @@ Pisos
 Y más...
 ```
 
+---------------------------------------------
+
 ![img](../img/collage.png)
 
 Brindamos diferentes categorías de servicios de acuerdo a tus requerimientos [Servicios](https://tucasainspecciona.github.io/nav/servicios.html).
