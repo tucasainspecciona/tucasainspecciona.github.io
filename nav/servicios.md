@@ -4,6 +4,13 @@
 Contamos con distintos tipos de servicios, tu elijes el que más se acomode a tus necesidades:
 ![img](../img/tabla_servicios.jpg)
 
+## Servicios Especiales
+*Fabricación y colocación de rejas perimetrales. Fabricacion y puesta en marcha de portones electricos.
+
+*Fabricación e instalación de rejas de seguridad para puertas y ventanas.
+
+*Consultar otros.
+
 ### Nuestras Redes Sociales
 
-Recuerda seguir nuestro trabajo en [instagram](#) y enterarte de las últimas noticias.
+Recuerda seguir nuestro trabajo en [instagram](https://www.instagram.com/inspeccionachile/) y enterarte de las últimas noticias.
