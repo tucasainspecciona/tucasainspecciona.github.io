@@ -1,12 +1,20 @@
+<!-- corregir: boton instagram en serivicios ; en la seccion serivios agregar "servicios especiales" subtitulo y escribir: 'fabricacion y colocacion de rejas perimetrales. Fabricacion y puesta en marcha de portones electricos...
+
+Fabricacion e instalacion de rejas de seguridad para puertas y ventanas.
+
+Consultar otros.'
+
+Agregar Foto de inicio (collage) -->
+
 [Inicio](https://tucasainspecciona.github.io)|[Servicios](https://tucasainspecciona.github.io/nav/servicios.html)|[Contacto](https://tucasainspecciona.github.io/nav/contacto.html)|[Instagram](https://www.instagram.com/inspeccionachile/)
 
 ## Bienvenido
 
-Tu casa inspecciona es una empresa dedicada a servicios de inspección, emitimos informe de fallas y/o mal funcionamiento de:
+Tu casa inspecciona es una empresa dedicada a servicios de inspección. Emitimos informe de fallas y/o mal funcionamiento de:
 
 ```
 Instalaciones Eléctricas
-Presiones de Agua
+Presión de Agua
 Terminaciones
 Fugas de Gas
 Pisos
