@@ -9,7 +9,7 @@ Contamos con distintos tipos de servicios, tu elijes el que más se acomode a tu
 
 * Fabricación e instalación de rejas de seguridad para puertas y ventanas.
 
-* Instalación y configurción de cámaras y sistemas de seguridad.
+* Instalación y configuración de cámaras y sistemas de seguridad.
 
 * Consultar otros.
 
